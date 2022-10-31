@@ -1,6 +1,6 @@
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import axios from 'axios';
-export default class fs {
+export default class fetchPhotosAPI {
   
     constructor() {
       this.searchQuery = '';
